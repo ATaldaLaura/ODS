@@ -134,6 +134,8 @@
 .separacaoDeBlocoMenu2 div{
     display: flex;
     flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
     width: 500px;
     height: 500px;
     background-color: blue;
